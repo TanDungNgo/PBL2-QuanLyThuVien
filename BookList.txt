@@ -1,0 +1,125 @@
+B012
+Khong gia dinh
+Hector Malot
+Tieu thuyet
+200
+5
+
+B001
+Sherlock Holmes
+Conan Doyle
+Tieu thuyet
+300
+8
+
+B010
+Life 3.0
+Max Tegmark
+Sach khoa hoc
+400
+5
+
+B009
+Mat ma Da Vinci
+Dan Brown
+Tieu thuyet
+500
+5
+
+B013
+Nha gia kim
+Paulo Coelho
+Tieu thuyet
+225
+5
+
+B014
+Dac nhan tam
+Dale Carnegie
+Sach tu luc
+300
+9
+
+B003
+Covid-19
+Debora Mackenzie
+Tam ly xa hoi
+380
+5
+
+B018
+Toi tu hoc
+Nguyen Duy Can
+Sach tu luc
+280
+5
+
+B015
+The Godfather
+Mario Puzo
+Tieu thuyet
+300
+5
+
+B002
+Vu tru
+Carl Sagan
+Sach khoa hoc
+350
+7
+
+B011
+Harry Potter
+JK Rowling
+Tieu thuyet
+200
+5
+
+B019
+Hack nao 1500
+Nguyen Van Hiep
+Sach tham khao
+500
+7
+
+B020
+So tay khoa hoc
+Jenifer Swanson
+Sach tham khao
+520
+6
+
+B017
+Nej
+Koichi Nishiguchi
+Ngoai ngu
+320
+4
+
+B024
+Nhung nguoi khon kho
+Victo Huygo
+Tieu thuyet
+400
+5
+
+B004
+Code dao ki su
+Pham Huy Hoang
+Chuyen nganh
+320
+8
+
+B007
+Gian diep mang
+Clifford Stoll
+Chuyen nganh
+290
+4
+
+B022
+De men phieu luu ki
+To Hoai
+Ki
+200
+9
